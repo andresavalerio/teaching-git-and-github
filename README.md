@@ -1,1 +1,1 @@
-# Teaching Git and Github
+# Learning Git and Github
